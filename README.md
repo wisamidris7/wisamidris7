@@ -7,6 +7,10 @@ I'm Developer With Many Languages
 3. HTML, CSS, JS, TS expert web developer
 4. Unity a 2d and 3d unity developer
 5. Blazor expert 1 year developing
+6. Docker Container
+7. Ubuntu Server
+8. Golang
+10. Python Flask
 
 ![Wisam GitHub stats](https://github-readme-stats.vercel.app/api?username=wisamidris7&count_private=false&theme=radical)
 
