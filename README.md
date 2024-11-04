@@ -12,7 +12,8 @@ I'm Developer With Many Languages
 8. Golang
 10. Python Flask
 
-![Wisam GitHub stats](https://github-readme-stats.vercel.app/api?username=wisamidris7&count_private=false&theme=radical)
+[![Wisam's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wisamidris7&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/wisamidris7/github-readme-stats#gh-dark-mode-only)
+[![Wisam's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=wisamidris7&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/wisamidris7/github-readme-stats#gh-light-mode-only)
 
 And I Have Youtube Channel
 
