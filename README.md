@@ -14,6 +14,7 @@ I'm Developer With Many Languages
 
 [![Wisam's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wisamidris7&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/wisamidris7/github-readme-stats#gh-dark-mode-only)
 [![Wisam's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=wisamidris7&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/wisamidris7/github-readme-stats#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 And I Have Youtube Channel
 
